@@ -1,0 +1,7 @@
+app.js:3201 Access to XMLHttpRequest at 'file:///C:/Users/notis/OneDrive/%CE%A5%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AE%CF%82/Weather_Sim_4-master/shaders/shaderFunctions.glsl' from origin 'null' has been blocked by CORS policy: Cross origin requests are only supported for protocol schemes: http, data, chrome, chrome-extension, chrome-untrusted, https.
+loadSourceFile @ app.js:3201
+app.js:3201          Failed to load resource: net::ERR_FAILED
+loadSourceFile @ app.js:3201
+app.js:3201 Uncaught (in promise) DOMException: Failed to execute 'send' on 'XMLHttpRequest': Failed to load 'file:///C:/Users/notis/OneDrive/%CE%A5%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AE%CF%82/Weather_Sim_4-master/shaders/shaderFunctions.glsl'.
+    at loadSourceFile (file:///C:/Users/notis/OneDrive/%CE%A5%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AE%CF%82/Weather_Sim_4-master/app.js:3201:11)
+    at mainScript (file:///C:/Users/notis/OneDrive/%CE%A5%CF%80%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CF%83%CF%84%CE%AE%CF%82/Weather_Sim_4-master/app.js:1498:30)
